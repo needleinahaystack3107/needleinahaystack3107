@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @needleinahaystack3107.
+- 👋 Hi, I’m Abhijit.
 - 👀 I’m interested in Data Analysis, Statistical Inference, Linear Programming, Predictive Analytics, Machine Learning and Data Visualization  
 - 🌱 I’m currently learning creating Production Ready Pipelines/ETL Using Pandas
 - 💞️ I’m looking to collaborate on Maching Learning Projects, Advanced Code Design for Production Environment- Dockerization, Linear Programming and Statistical Inference Projects.
