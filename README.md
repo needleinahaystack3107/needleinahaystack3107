@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Maching Learning Projects, Advanced Code Design for Production Environment- Dockerization, Linear Programming and Statistical Inference Projects.
 - 📫 How to reach me 
 
--[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( www.linkedin.com/in/abhijit-haridas)
-[<img align="left" alt="Wordpress" width="80" src="https://image.flaticon.com/icons/png/512/174/174881.png" />](https://needleinahaystack3107.work/)
+- Linkedin Profile: ( www.linkedin.com/in/abhijit-haridas)
+- Wordpress (https://needleinahaystack3107.work/)
 
 
 <!---
