@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijit.
-- 👀 I’m interested in Data Analysis, Statistical Inference, Linear Programming, Predictive Analytics, Machine Learning and Data Visualization  
-- 🌱 I’m currently learning an Introduction to Deep Learning and Applications in Time Series Data.
+- 👀 I’m interested in Data Analysis, Data Engineering, Statistical Inference, Predictive Analytics, Machine Learning and Data Visualization  
+- 🌱 I’m currently learning Introduction to Deep Learning for Sequence Modelling Applications.
 - 💞️ I’m looking to collaborate on Maching Learning Projects, Advanced Code Design for Production Environment, Linear Programming and Statistical Inference Projects.
 - 📫 How to reach me 
 
