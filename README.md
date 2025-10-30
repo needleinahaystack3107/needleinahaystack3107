@@ -4,7 +4,7 @@
 
 🌱 Currently exploring Deep Learning for Sequence Modeling, Human-AI collaboration, and production-grade Python stacks (Kedro + FastAPI + Reflex).
 
-⚙️ Recent builds: Rayden Rules — an AI-assisted climate intelligence platform using NASA satellite data; semantic layer modeling for sales data; agentic SQL orchestration.
+⚙️ Recent builds: Rayden Rules — an AI-assisted climate intelligence platform using NASA satellite data; semantic layer modeling for climate change indicators
 
 💞️ Open to collaborating on Machine Learning, LLMOps, Data Architecture, and Optimization (LP/MILP) projects.
 
